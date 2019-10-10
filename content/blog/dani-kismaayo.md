@@ -12,7 +12,7 @@ type = "post"
 
 +++
 
-## Move static content to `static`
+## Madaxweynaha Puntland Saciid Deni oo si weyn loogu soo dhoweeyay Kismaayo
 Madaxweynaha Puntland Saciid C/llaahi Deni iyo wafdi uu hoggaaminayo ayaa goor dhow ka degay garoonka diyaaradaha Kismaayo, halkaasoo si weyn loogu soo dhoweeyay.
 
 Wafdiga Madaxweynaha Puntland Saciid Deni oo ka soo kicitimay magaalada Garowe ayaa diyaarad gaar aheyd oo Maamulka Jubbaland u diray soo qaaday.
