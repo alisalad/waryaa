@@ -1,6 +1,6 @@
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Dalka News - Articles"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
